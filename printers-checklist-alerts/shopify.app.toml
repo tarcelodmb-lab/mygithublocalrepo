@@ -2,7 +2,7 @@
 
 name = "CobraFlex Maintenance Tracker"
 client_id = "be2bb7f8900a0d6d2b98471f2e11feae"
-application_url = "REPLACE_WITH_YOUR_DOMAIN"
+application_url = "https://mygithublocalrepo.vercel.app/"
 embedded = true
 
 [build]
